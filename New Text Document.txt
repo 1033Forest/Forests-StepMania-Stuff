@@ -1,0 +1,23 @@
+Added the extra colors for the "speed mod", "random", and "single color/column color" note parameters.
+
+Extra colors (even though these notes don't exist in SM except for 192nd and maybe 96th)
+96th - Pastel pink
+128th - Pastel blue
+192nd - Pastel green
+256th - Brick red/maroon
+384th - Very dark blueish green
+512th - Navy blue
+768th - Gray
+1024th - Turquoise
+1536th - Black
+2048th - Olive green
+3072nd - Cream
+6144th - Forest green
+
+96th - 32nd note triplet
+192nd - 64th note triplet
+384th - 128th note triplet
+768th - 256th note triplet
+1536th - 512th note triplet
+3072nd - 1024th note triplet
+6144th - 2048th note triplet
